@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "sigQC"]
 	path = sigQC
-	url = https://github.com/cran/sigQC
+	url = https://github.com/andrewdhawan/sigqc
